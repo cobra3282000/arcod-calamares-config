@@ -6,9 +6,9 @@ xdata = pkgtype=pkg
 pkgver = 1.0-1
 pkgdesc = calamares config for arcopro
 url = https://github.com/cobra3282000/arcod-calamares-config
-builddate = 1729094216
+builddate = 1729096702
 packager = Unknown Packager
-size = 16594225
+size = 16594275
 arch = any
 license = GPL3
 provides = arcod-calamares-config
